@@ -17,7 +17,7 @@ A glowing, retro-futuristic Nixie tube clock built with HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-**GitHub Pages:** [View Live Demo](https://bati58.github.io/TubeClock/)
+**GitHub Pages:** [View Live Demo](https://bati58.github.io/tube-clock-app/)
 
 To enable GitHub Pages:
 1. Go to your repository Settings
